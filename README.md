@@ -1,1 +1,1 @@
-a rollup starter template
+a phaser template
